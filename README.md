@@ -8,7 +8,7 @@ Model Waterfall adalah model klasik yang bersifat sistematis, berurutan dalam me
   > 5) Deployment (Delivery, Support, Feedback) Tahapan Deployment merupakan tahapan implementasi software ke customer, pemeliharaan software secara berkala, perbaikan software, evaluasi software, dan pengembangan software berdasarkan umpan balik yang diberikan agar sistem dapat tetap berjalan dan berkembang sesuai dengan fungsinya.
 
 ## 02 MPPL RAD
-Rapid Application Development (RAD) merupakan gabungan dari bermacam-macam teknik terstruktur dengan teknik prototyping dan teknik pengembangan joint application untuk mempercepat pengembangan sistem/aplikasi. Model pengembangan RAD juga disebut model pendekatan berbasis object, pengembangan aplikasi dengan menggunakan metode RAD ini dapat dilakukan dalam waktu yang relatif lebih cepat. hanya membutuhkan waktu 30-90 hari untuk menyelesaikan sistem perangkat lunak tersebut, sangat mementingkan keterlibatan pengguna dalam proses analisis dan perancangannya.
+Rapid Application Development (RAD) merupakan gabungan dari bermacam-macam teknik terstruktur dengan teknik prototyping dan teknik pengembangan joint application untuk mempercepat pengembangan sistem/aplikasi. Model pengembangan RAD juga disebut model pendekatan berbasis objek, pengembangan aplikasi dengan menggunakan metode RAD ini dapat dilakukan dalam waktu yang relatif lebih cepat. hanya membutuhkan waktu 30-90 hari untuk menyelesaikan sistem perangkat lunak tersebut, sangat mementingkan keterlibatan pengguna dalam proses analisis dan perancangannya.
 
 Metode RAD (Rapid Application Development) menggunakan metode iteratif (berulang) dalam mengembangkan sistem dimana model bekerja sistem dikonstruksikan di awal tahap pengembangan dengan tujuan menetapkan kebutuhan pengguna. Metode RAD menekankan cakupan pemodelan bisnis (bussiness modelling), pemodelan data (data modelling), pemodelan proses (process modelling), pembuatan aplikasi (application generation) dan pengujian (testing). Metode ini juga sering digunakan oleh developer aplikasi agar project dapat dikerjakan dalam waktu yang singkat sebagai acuan yang dipakai dalam metode pengembangan sistem. Berikut merupakan tahapan RAD pada model pengembangan sistem:
   > 1) Rencana Kebutuhan (Requirement Planning): User dan analyst melakukan pertemuan untuk mengidentifikasi tujuan dari sistem dan kebutuhan informasi untuk mencapai tujuan. Pada tahap ini merupakan hal terpenting yaitu adanya keterlibatan dari kedua belah pihak.
@@ -16,13 +16,9 @@ Metode RAD (Rapid Application Development) menggunakan metode iteratif (berulang
   > 3) Implementasi (Implementation): Tahapan ini adalah tahapan programmer yang mengembangkan desain suatu program yang telah disetujui oleh user dan analyst. Sebelum diaplikasikan pada suatu organisasi terlebih dahulu dilakukan proses pengujian terhadap program tersebut apakah ada kesalahan atau tidak. Pada tahap ini user biasa memberikan tanggapan akan sistem yang sudah dibuat serta mendapat persetujuan mengenai sistem tersebut.
 
 ## 03 MPPL Agile
-Model Agile adalah metodologi pengembangan software yang didasarkan pada proses pengerjaan yang dilakukan berulang dimana, aturan dan solusi yang disepakati dilakukan dengan kolaborasi antar tiap tim secara terorganisir dan terstruktur.
+Model Agile adalah metodologi pengembangan software yang didasarkan pada proses pengerjaan yang dilakukan berulang dimana, aturan dan solusi yang disepakati dilakukan dengan kolaborasi antar tiap tim secara terorganisir dan terstruktur. Metode pengembangan perangkat lunak Agile ini muncul karena keinginan yang besar untuk dapat meninggalkan metode lama (Waterfall) yang tidak fleksibel. Pendekatan metode ini dirancang untuk mengakomodasi perubahan serta menghasilkan perangkat lunak secara lebih cepat.
 
 Agile development sendiri merupakan model pengembangan perangkat lunak dalam jangka pendek. Kemudian, membutuhkan adaptasi yang cepat dalam mengatasi setiap perubahan. Nilai terpenting dari Agile development ini adalah memungkinkan sebuah tim dalam mengambil keputusan dengan cepat, kualitas dan prediksi yang baik, serta memiliki potensi yang baik dalam menangani setiap perubahan.
-
-Proses pengembangan Agile mengacu pada konsep dari Agile Manifesto. Konsep tersebut dikembangkan oleh 14 tokoh terkenal dalam industri software. Setelah mengenal apa itu Agile, selanjutnya masuk pada pembahasan mengenai tujuan dari Agile development sendiri.
-
-Metode pengembangan perangkat lunak Agile ini muncul karena keinginan yang besar untuk dapat meninggalkan metode lama (Waterfall) yang tidak fleksibel. Pendekatan metode ini dirancang untuk mengakomodasi perubahan serta menghasilkan perangkat lunak secara lebih cepat.
 
 Berikut gambaran mengenai metode Agile:
   > - Lebih menghargai hubungan dan interaksi antar pribadi, tidak hanya memperdulikan sarana (tools).
@@ -31,4 +27,9 @@ Berikut gambaran mengenai metode Agile:
   > - Fokus untuk menampilkan perangkat lunak yang benar-benar berfungsi; bukan hanya sekedar mementingkan dokumentasi.
   > - Berbeda dengan metode waterfall, Agile ditujukan untuk menangani munculnya berbagai variabel dan kekompleksan yang mungkin terjadi dalam pengembangan sebuah proyek.
 
-Kepuasan pengguna merupakan prioritas utama dari metode Agile ini yang diraih dengan terus menerus menghadirkan fitur yang berfungsi dengan baik, teruji serta diprioritaskan.
+
+Sumber:
+- Roger S. Pressman and Bruce R. Maxim, Software Engineering - A Practitioner's Approach, 9th ed, McGraw Hill, 2020
+- https://id.wikipedia.org/wiki/Proses_pengembangan_perangkat_lunak
+- https://badoystudio.com/metode-pengembangan-perangkat-lunak/
+
